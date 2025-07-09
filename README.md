@@ -23,7 +23,7 @@ Follow the steps below to set up the backend environment on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/FastAPI-BE-TEMP.git
+git clone https://github.com/NeoZyvren/FastAPI-BE-TEMP.git
 cd RatCV-BE
 ```
 
