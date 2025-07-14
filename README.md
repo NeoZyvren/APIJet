@@ -1,7 +1,7 @@
 
 # 🧠 FastAPI Backend Template
 
-This FastAPI template is for boostrap your next FastAPI project faster with few clicks.
+🚀 A high-velocity FastAPI backend starter kit built for modern API development.
 
 ---
 
